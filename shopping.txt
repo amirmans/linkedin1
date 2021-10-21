@@ -17,8 +17,12 @@ soup
 ice cream
 sugar
 flour
+<<<<<<< HEAD
 Water Mellon
 
 //New Additions
 bear
 wine
+=======
+watermellon
+>>>>>>> 6e8918e9de66d445820cfbc98fb81e5d43290e83
